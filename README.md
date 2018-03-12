@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/prescience-decision-solution/coursera-machine-learning-AndrewNg-Python/master)
+
+
 # Material I made during the Machine Learning course by Andre Ng course from Coursera-Stanford
 
 This contains notes and exercises made in Python I made a long time ago from the Andrew Ng course in Coursera.
